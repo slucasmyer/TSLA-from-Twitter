@@ -52,7 +52,11 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    <br>
 - ### TSLA-modeling notebook
    a range of LSTM models with varying hyper-parameters
-   
+   <br>
+    <p align = "center">
+      <img src = "/Graphs/tsla_lstm.png" width = 700>
+    </p>
+   <br>
 - ### Pickle Folder
   - Prices dataframe
   - Tweets dataframe 
