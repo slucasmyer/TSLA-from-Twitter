@@ -13,6 +13,11 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
 ##  Repo Contents
 - ### alphaVantage-price-data notebook
    pull price series from alphaVantage API
+   <br>
+    <p align = "center">
+      <img src = "/TSLA-from-twitter/Graphs/tsla_price_data.jpg" width = 700>
+    </p>
+   <br>
 - ### TSLA-tweets notebook
    gather tweets from Twittter Developer Labs 'Recent Search' endpoint
 - ### TSLA-EDA-feature-engineering notebook
