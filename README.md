@@ -22,7 +22,7 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    gather tweets from Twittter Developer Labs 'Recent Search' endpoint
    <br>
     <p align = "center">
-      <img src = "/Graphs/tsla_price_data.jpg" width = 700>
+      <img src = "/Graphs/tweet_volume.png" width = 700>
     </p>
    <br>
 - ### TSLA-EDA-feature-engineering notebook
