@@ -27,7 +27,7 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    <br>
    <br>
     <p align = "center">
-      <img src = "/Graphs/compoound_sentiment.png" width = 700>
+      <img src = "/Graphs/compound_sentiment.png" width = 700>
     </p>
    <br>
 - ### TSLA-EDA-feature-engineering notebook
