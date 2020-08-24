@@ -15,7 +15,7 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    pull price series from alphaVantage API
    <br>
     <p align = "center">
-      <img src = "/Graphs/tsla_price_data.jpg" width = 700>
+      <img src = "/Graphs/tsla_price.jpg" width = 700>
     </p>
    <br>
 - ### TSLA-tweets notebook
@@ -32,6 +32,11 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    <br>
 - ### TSLA-EDA-feature-engineering notebook
    clean and explore our data, then combine and process to prepare for modeling
+   <br>
+    <p align = "center">
+      <img src = "/Graphs/tsla_price_data.jpg" width = 700>
+    </p>
+   <br>
 - ### TSLA-EDA-feature-engineering-test-set notebook
    clean and explore our data, then combine and process to prepare for modeling
 - ### baseline-models notebook
