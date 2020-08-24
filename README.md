@@ -15,7 +15,7 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    pull price series from alphaVantage API
    <br>
     <p align = "center">
-      <img src = "/Graphs/tesla_price.png" width = 700>
+      <img src = "/Graphs/tesla_price_series.png" width = 700>
     </p>
    <br>
 - ### TSLA-tweets notebook
