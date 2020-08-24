@@ -25,6 +25,11 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
       <img src = "/Graphs/tweet_volume.png" width = 700>
     </p>
    <br>
+   <br>
+    <p align = "center">
+      <img src = "/Graphs/compoound_sentiment.png" width = 700>
+    </p>
+   <br>
 - ### TSLA-EDA-feature-engineering notebook
    clean and explore our data, then combine and process to prepare for modeling
 - ### TSLA-EDA-feature-engineering-test-set notebook
