@@ -45,7 +45,11 @@ Determining whether tweet volume and sentiment can improve our ability to foreca
    
 - ### baseline-models notebook
    create a baseline prediction against which to judge the outcomes of our modeling process
-   
+   <br>
+    <p align = "center">
+      <img src = "/Graphs/tsla_baseline.png" width = 700>
+    </p>
+   <br>
 - ### TSLA-modeling notebook
    a range of LSTM models with varying hyper-parameters
    
