@@ -33,16 +33,13 @@ In other words, does the Efficient Market Theory hypothesis (that the best predi
     </p>
    <br>
    
-- ### TSLA-EDA-feature-engineering notebook
+- ### TSLA-EDA-feature-engineering & TSLA-EDA-feature-engineering-test-set notebooks
    clean and explore our data, then combine and process to prepare for modeling
    <br>
     <p align = "center">
       <img src = "/Graphs/tsla_price_data.jpg" width = 700>
     </p>
    <br>
-   
-- ### TSLA-EDA-feature-engineering-test-set notebook
-   clean and explore our data, then combine and process to prepare for modeling
    
 - ### baseline-models notebook
    Baseline prediction against which to judge the outcomes of our modeling process (1 minute lagged price series)
