@@ -46,8 +46,8 @@ In other words, does the Efficient Market Theory hypothesis (that the best predi
    
 - ### baseline-models notebook
    Baseline prediction against which to judge the outcomes of our modeling process (1 minute lagged price series)
-   Baseline RMSE: .407
-   Baseline RMSE/STD: .056
+   - Baseline RMSE: .407
+   - Baseline RMSE/STD: .056
    <br>
     <p align = "center">
       <img src = "/Graphs/tsla_baseline.png" width = 700>
@@ -56,10 +56,10 @@ In other words, does the Efficient Market Theory hypothesis (that the best predi
 - ### TSLA-modeling notebook
    Contians a range of LSTM models with varying hyper-parameters.
    Below is an image of the best model's predictions on our hold-out test set (3 trading days)
-   Validation RMSE: 1.008
-   Validation RMSE/STD: .394
-   Test RMSE: .684
-   Test RMSE/STD: .1
+   - Validation RMSE: 1.008
+   - Validation RMSE/STD: .394
+   - Test RMSE: .684
+   - Test RMSE/STD: .1
    Configuration/Parameters:
    - 64-Dimenstional
    - Single-layer
