@@ -60,7 +60,7 @@ In other words, does the Efficient Market Theory hypothesis (that the best predi
    - Validation RMSE/STD: .394
    - Test RMSE: .684
    - Test RMSE/STD: .1
-   Configuration/Parameters:
+   - #### Configuration/Parameters:
    - 64-Dimenstional
    - Single-layer
    - 20 Epochs
