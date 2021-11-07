@@ -1,4 +1,4 @@
-# TSLA-from-Twitter
+# TSLA-from-$TSLA
 Determining whether tweet volume and sentiment can improve our ability to forecast Tesla stock price over and above a 1-minute lagged price series.
 In other words, does the Efficient Market Theory hypothesis (that the best predictor of price at time period t+1 is the price at time t) hold true when incorporating information found on twitter?
 
